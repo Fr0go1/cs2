@@ -1,0 +1,41 @@
+﻿  Cheats.cpp
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Utils\ProcessManager.hpp(7,1): message : see previous definition of '_is_invalid'
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(12,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(25,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(28,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(29,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(31,80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(32,82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(41,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(42,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Render.hpp(45,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Render.hpp(47,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Render.hpp(48,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Render.hpp(49,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Render.hpp(80,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Render.hpp(180,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Render.hpp(182,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Render.hpp(211,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Render.hpp(215,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Cheats.cpp(267,57): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Cheats.cpp(272,63): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Cheats.cpp(284,73): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Cheats.cpp(290,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\Utils\ProcessManager.hpp(7,1): message : see previous definition of '_is_invalid'
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(12,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(25,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(28,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(29,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(31,80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(32,82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(41,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CSGO-Cheats-DLL\CS2_External\CS2_External\AimBot.hpp(42,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 2618 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    28 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CS2_External.vcxproj -> D:\CSGO-Cheats-DLL\CS2_External\x64\Release\CS2_External.exe

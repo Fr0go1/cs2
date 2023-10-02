@@ -1,0 +1,15 @@
+aimbot 0
+headbox 0
+DrawBone 1
+ShowLosLine 0
+showHealthBar 1
+BoxColor 1 1 1 0
+HeadColor 1 0 1 1
+BoneColor 1 0.480392 0.480392 0.745098
+LOSColor 1 0 0 1
+showWatermark 1
+watermarkX 10
+watermarkY 10
+fps 0
+time 1
+cheat 1
